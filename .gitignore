@@ -49,6 +49,8 @@ Thumbs.db
 *.mov
 *.wmv
 
+config.json
+
 .env
 
 *dlc-itesm-3a1ee82f7fb0.json
